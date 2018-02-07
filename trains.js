@@ -102,20 +102,3 @@ database.ref().on("child_added", function(childSnapshot, prevChildKey){
 	minTrain + "</td></td>"); //+ "</td><td>" + nextTrain + "</td><td>" + minTilTrain + "</td><td>");
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
